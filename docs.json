@@ -18,6 +18,12 @@
             "pages": [
               "general/hello"
             ]
+          },
+          {
+            "group": "Minecraft",
+            "pages": [
+              "minecraft/modifications"
+            ]
           }
         ]
       }
