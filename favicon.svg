@@ -1,19 +1,44 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.06145 23.1079C5.26816 22.3769 -3.39077 20.6274 1.4173 5.06384C9.6344 6.09939 16.9728 14.0644 9.06145 23.1079Z" fill="url(#paint0_linear_17557_2021)"/>
-<path d="M8.91928 23.0939C5.27642 21.2223 0.78371 4.20891 17.0071 0C20.7569 7.19341 19.6212 16.5452 8.91928 23.0939Z" fill="url(#paint1_linear_17557_2021)"/>
-<path d="M8.91388 23.0788C8.73534 19.8817 10.1585 9.08525 23.5699 13.1107C23.1812 20.1229 18.984 26.4182 8.91388 23.0788Z" fill="url(#paint2_linear_17557_2021)"/>
-<defs>
-<linearGradient id="paint0_linear_17557_2021" x1="3.77557" y1="5.91571" x2="5.23185" y2="21.5589" gradientUnits="userSpaceOnUse">
-<stop stop-color="#18E299"/>
-<stop offset="1" stop-color="#15803D"/>
-</linearGradient>
-<linearGradient id="paint1_linear_17557_2021" x1="12.1711" y1="-0.718425" x2="10.1897" y2="22.9832" gradientUnits="userSpaceOnUse">
-<stop stop-color="#16A34A"/>
-<stop offset="1" stop-color="#4ADE80"/>
-</linearGradient>
-<linearGradient id="paint2_linear_17557_2021" x1="23.1327" y1="15.353" x2="9.33841" y2="18.5196" gradientUnits="userSpaceOnUse">
-<stop stop-color="#4ADE80"/>
-<stop offset="1" stop-color="#0D9373"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="clippath">
+      <circle cx="512" cy="512" r="512" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0" y1="512" x2="1024" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf00ff"/>
+      <stop offset="1" stop-color="#9400ff"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="78.97"/>
+      <feGaussianBlur result="blur" stdDeviation="39.49"/>
+      <feFlood flood-color="#000" flood-opacity=".4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="-9.22" y1="169.68" x2="219.85" y2="269.4" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="294.16" y1="341.86" x2="835.86" y2="764.98" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="705.69" y1="704.99" x2="1023.71" y2="928.68" xlink:href="#linear-gradient"/>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <g clip-path="url(#clippath)">
+          <g>
+            <rect x="0" y="0" width="1024" height="1024" rx="250" ry="250" fill="url(#linear-gradient)" filter="url(#drop-shadow-1)"/>
+            <path d="M181.41,9.52C174.47,109,138.84,268.1.02,416.85v-166.87C.02,135.71,76.69,39.35,181.41,9.52Z" fill="url(#linear-gradient-2)"/>
+            <path d="M1023.98,249.98v524c0,138.09-111.89,250.03-249.98,250.03H250c-117.91,0-216.7-81.6-243.09-191.42C119.4,563.54,321.85,206.87,655.63,0h118.37C912.09,0,1023.98,111.94,1023.98,249.98Z" fill="url(#linear-gradient-3)"/>
+            <path d="M774,1024.02h-167.47c-.97-11.72-1.43-23.58-1.43-35.53,0-237.98,184.89-432.71,418.87-448.38v233.89c0,138.09-111.89,250.03-249.98,250.03Z" fill="url(#linear-gradient-4)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <path d="M595.91,678.34c-21.91,69.2-69.2,119.94-156.84,111.87-84.98-7.83-118.79-96.87-177.6-102.64-58.82-5.77-89.95,43.82-89.95,43.82,0,0,20.41-108.77,134.63-108.77,118.29,0,112.09,72.52,178.16,90.58,72.24,19.75,111.62-34.86,111.62-34.86Z" fill="#fff"/>
+            <path d="M852.49,594.13c-21.91,69.2-69.2,119.94-156.84,111.87-84.98-7.83-118.79-96.87-177.6-102.64-58.82-5.77-89.95,43.82-89.95,43.82,0,0,20.41-108.77,134.63-108.77,118.29,0,112.09,72.52,178.16,90.58,72.24,19.75,111.62-34.86,111.62-34.86Z" fill="#fff"/>
+          </g>
+          <path d="M728.97,336.48c-107.99-61.43-247.74-46.1-339.85,46.01-57.43,57.43-85.01,133.43-82.73,208.65-4.46-.27-9.1-.36-13.92-.36-48.65,0-84.78,16.84-110.81,39.68-25.85-105.35,2.37-221.25,84.64-303.53,125.23-125.28,328.29-125.28,453.52,0,3.14,3.14,6.19,6.33,9.15,9.56Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
