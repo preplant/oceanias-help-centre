@@ -27,12 +27,12 @@
         {
           "anchor": "Discord",
           "href": "https://discord.oceanias.net",
-          "icon": "book-open-cover"
+          "icon": "discord"
         },
         {
           "anchor": "Store",
           "href": "https://store.oceanias.net",
-          "icon": "slack"
+          "icon": "store"
         }
       ]
     }
