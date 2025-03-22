@@ -74,6 +74,10 @@
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
+  "navbar": {
+    "links": [],
+    "primary": {}
+  },
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
