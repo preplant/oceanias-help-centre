@@ -58,19 +58,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Discord",
+          "href": "https://discord.oceanias.net",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Store",
+          "href": "https://store.oceanias.net",
           "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
