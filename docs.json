@@ -16,9 +16,7 @@
           {
             "group": "General",
             "pages": [
-              "general/introduction",
-              "general/quickstart",
-              "general/development"
+              "general/hello"
             ]
           }
         ]
